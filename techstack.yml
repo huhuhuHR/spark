@@ -1,0 +1,3093 @@
+repo_name: huhuhuHR/spark
+report_id: 81e9ad49a5d26e30530dfb03a98fb2b4
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-02T01:51:30+00:00'
+requested_by: leewyang
+provider: github
+branch: master
+detected_tools_count: 222
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/huhuhuHR/spark
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/huhuhuHR/spark
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  version: '1.8'
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/pom.xml
+  detection_source: Repo Metadata
+  last_updated_by: yangjie01
+  last_updated_on: 2021-10-19 13:59:17.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/huhuhuHR/spark
+  detection_source: Repo Metadata
+- name: Jinja
+  description: Full featured template engine for Python
+  website_url: https://palletsprojects.com/p/jinja/
+  version: 3.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/2303/New_Project__20_.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: Hyukjin Kwon
+  last_updated_on: 2021-06-04 06:02:29.000000000 Z
+- name: Markdown
+  description: Text-to-HTML conversion tool/syntax for web writers, by John Gruber
+  website_url: http://daringfireball.net/projects/markdown/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1147/markdown.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/R/pkg/DESCRIPTION
+  detection_source: R/pkg/DESCRIPTION
+  last_updated_by: Yuanjian Li
+  last_updated_on: 2021-04-21 11:43:47.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/huhuhuHR/spark
+  detection_source: Repo Metadata
+- name: R Language
+  description: A language and environment for statistical computing and graphics
+  website_url: http://www.r-project.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1213/r-logo.png
+  detection_source_url: https://github.com/huhuhuHR/spark
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/create-release/spark-rm/Dockerfile
+  detection_source: dev/create-release/spark-rm/Dockerfile
+  last_updated_by: Hyukjin Kwon
+  last_updated_on: 2020-12-30 07:37:23.000000000 Z
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/sql/core/src/test/resources/sql-tests/inputs/ansi/array.sql
+  detection_source: sql/core/src/test/resources/sql-tests/inputs/ansi/array.sql
+  last_updated_by: Gengliang Wang
+  last_updated_on: 2022-08-15 23:19:38.000000000 Z
+- name: Scala
+  description: A pure-bred object-oriented language that runs on the JVM
+  website_url: http://www.scala-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1012/scala.png
+  detection_source_url: https://github.com/huhuhuHR/spark
+  detection_source: Repo Metadata
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/create-release/spark-rm/Dockerfile
+  detection_source: dev/create-release/spark-rm/Dockerfile
+  last_updated_by: Marcelo Vanzin
+  last_updated_on: 2018-06-22 17:38:34.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/docker/spark-test/master/Dockerfile
+  detection_source: connector/docker/spark-test/master/Dockerfile
+  last_updated_by: Aaron Davidson
+  last_updated_on: 2013-10-06 06:07:26.000000000 Z
+- name: Avro
+  description: A data serialization framework
+  website_url: https://avro.apache.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/4265/avro.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kafka-0-10-assembly/pom.xml
+  detection_source: connector/kafka-0-10-assembly/pom.xml
+  last_updated_by: cody koeninger
+  last_updated_on: 2016-06-30 06:21:03.000000000 Z
+- name: Jersey
+  description: A REST framework that provides a JAX-RS implementation
+  website_url: https://jersey.java.net/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1757/E6ajYzZW_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/resource-managers/yarn/pom.xml
+  detection_source: resource-managers/yarn/pom.xml
+  last_updated_by: Yuming Wang
+  last_updated_on: 2019-04-02 20:38:26.000000000 Z
+- name: Matplotlib
+  description: A plotting library for the Python programming language
+  website_url: http://matplotlib.org
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: Hyukjin Kwon
+  last_updated_on: 2021-06-04 06:02:29.000000000 Z
+- name: Netty
+  description: Asynchronous event-driven network application framework
+  website_url: http://netty.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/3278/netty_icon_256px.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/src/main/scala/org/apache/spark/rpc/netty/NettyStreamManager.scala
+  detection_source: core/src/main/scala/org/apache/spark/rpc/netty/NettyStreamManager.scala
+  last_updated_by: Marcelo Vanzin
+  last_updated_on: 2015-11-23 21:54:19.000000000 Z
+- name: Protobuf
+  description: Google's data interchange format
+  website_url: https://developers.google.com/protocol-buffers/
+  version: 3.19.5
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: connector/connect/client/jvm/pom.xml
+  last_updated_by: vicennial
+  last_updated_on: 2023-01-10 14:43:03.000000000 Z
+- name: guava
+  description: Google Core Libraries for Java 6+
+  website_url: https://github.com/google/guava
+  version: 31.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/2970/wBjKn0ol.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/connect/client/jvm/pom.xml
+  detection_source: assembly/pom.xml
+  last_updated_by: Marcelo Vanzin
+  last_updated_on: 2016-04-04 23:52:21.000000000 Z
+- name: Apache Derby
+  description: An open source relational database implemented entirely in Java
+  website_url: https://db.apache.org/derby/index.html
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/7309/derby.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: Apache Hive
+  description: Data Warehouse Software for Reading, Writing, and Managing Large Datasets
+  website_url: https://hive.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Big Data Tools
+  image_url: https://img.stackshare.io/service/1911/27eb4217dfd5cb2d579cb56bbcc7b290_400x400.jpeg
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/src/test/resources/hive-site.xml
+  detection_source: core/src/test/resources/hive-site.xml
+  last_updated_by: Kent Yao
+  last_updated_on: 2021-02-05 01:13:19.000000000 Z
+- name: Apache Spark
+  description: Fast and general engine for large-scale data processing
+  website_url: https://spark.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Big Data Tools
+  image_url: https://img.stackshare.io/service/2220/ca72c4715da998b0bf5d1c857958bed3.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/bin/spark-submit
+  detection_source: bin/spark-submit
+  last_updated_by: Holden Karau
+  last_updated_on: 2016-11-16 22:22:15.000000000 Z
+- name: H2 Database
+  description: A relational database management system written in Java
+  website_url: http://www.h2database.com/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/3105/h2-logo_square_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/sql/core/pom.xml
+  detection_source: sql/core/pom.xml
+  last_updated_by: Gabor Somogyi
+  last_updated_on: 2020-06-30 17:30:22.000000000 Z
+- name: Kafka
+  description: Distributed, fault tolerant, high throughput pub-sub messaging system
+  website_url: http://kafka.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/1063/kazUJooF_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kafka-0-10-sql/pom.xml
+  detection_source: connector/kafka-0-10-sql/pom.xml
+  last_updated_by: Dongjoon Hyun
+  last_updated_on: 2020-04-19 17:51:09.000000000 Z
+- name: MSSQL
+  description: It is an enterprise-level database system that is very popular for
+    Windows web servers
+  website_url: https://www.microsoft.com/en-us/sql-server
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/2445/ZKsJsucq_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/docker-integration-tests/pom.xml
+  detection_source: connector/docker-integration-tests/pom.xml
+  last_updated_by: Josh Rosen
+  last_updated_on: 2015-11-10 23:58:30.000000000 Z
+- name: MariaDB
+  description: An enhanced, drop-in replacement for MySQL
+  website_url: https://mariadb.com/
+  license: GPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1615/mariadb-logo-400x400.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/docker-integration-tests/pom.xml
+  detection_source: connector/docker-integration-tests/pom.xml
+  last_updated_by: Gabor Somogyi
+  last_updated_on: 2020-04-09 16:20:02.000000000 Z
+- name: Microsoft SQL Server
+  description: A relational database management system developed by Microsoft
+  website_url: http://microsoft.com/sqlserver
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1027/sql_server.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/docker-integration-tests/pom.xml
+  detection_source: connector/docker-integration-tests/pom.xml
+  last_updated_by: Zhu, Lipeng
+  last_updated_on: 2019-03-19 15:43:23.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/docker-integration-tests/pom.xml
+  detection_source: connector/docker-integration-tests/pom.xml
+  last_updated_by: Mark Grover
+  last_updated_on: 2015-12-10 02:37:35.000000000 Z
+- name: RocksDB
+  description: Embeddable persistent key-value store for fast storage, developed and
+    maintained by Facebook Database Engineering Team
+  website_url: http://rocksdb.org/
+  license: GPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/2432/81KLTHHZ.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/kvstore/pom.xml
+  detection_source: common/kvstore/pom.xml
+  last_updated_by: Dongjoon Hyun
+  last_updated_on: 2021-12-17 19:38:53.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/spark
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/package.json
+  detection_source: dev/package.json
+  last_updated_by: Kousuke Saruta
+  last_updated_on: 2021-05-07 12:55:08.000000000 Z
+- name: FindBugs
+  description: An open-source static code analyser
+  website_url: http://findbugs.sourceforge.net/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/2662/kWjFjx3K_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/network-common/pom.xml
+  detection_source: common/network-common/pom.xml
+  last_updated_by: Reynold Xin
+  last_updated_on: 2014-10-29 18:27:07.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/huhuhuHR/spark
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/.github/workflows/benchmark.yml
+  detection_source: ".github/workflows/benchmark.yml"
+  last_updated_by: Yikun Jiang
+  last_updated_on: 2022-10-24 06:51:26.000000000 Z
+- name: GlassFish
+  description: The Open Source Java EE Reference Implementation
+  website_url: https://glassfish.java.net
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/3628/515GX-Cc_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kinesis-asl-assembly/pom.xml
+  detection_source: connector/kinesis-asl-assembly/pom.xml
+  last_updated_by: mcheah
+  last_updated_on: 2016-05-05 09:51:03.000000000 Z
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  version: 4.13.2
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/pom.xml
+  detection_source: connector/kafka-0-10-sql/pom.xml
+  last_updated_by: Shixiong Zhu
+  last_updated_on: 2016-10-05 23:45:45.000000000 Z
+- name: Kubernetes
+  description: Manage a cluster of Linux containers as a single system to accelerate
+    Dev and simplify Ops
+  website_url: http://kubernetes.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/1885/21_d3cvM.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/resource-managers/kubernetes/core/pom.xml
+  detection_source: resource-managers/kubernetes/core/pom.xml
+  last_updated_by: attilapiros
+  last_updated_on: 2022-09-29 19:19:17.000000000 Z
+- name: Log4j
+  description: A Java-based logging utility
+  website_url: https://logging.apache.org/log4j/2.x/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Logging Tools
+  image_url: https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/kvstore/pom.xml
+  detection_source: common/kvstore/pom.xml
+  last_updated_by: yangjie01
+  last_updated_on: 2022-10-06 07:09:38.000000000 Z
+- name: Mockito
+  description: Tasty mocking framework for unit tests in Java
+  website_url: https://site.mockito.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/network-common/pom.xml
+  detection_source: common/network-common/pom.xml
+  last_updated_by: Josh Rosen
+  last_updated_on: 2015-06-28 06:27:52.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/docker/spark-test/master/Dockerfile
+  detection_source: connector/docker/spark-test/master/Dockerfile
+  last_updated_by: Aaron Davidson
+  last_updated_on: 2013-10-06 06:07:26.000000000 Z
+- name: OpenStack
+  description: Open source software for building private and public clouds
+  website_url: https://www.openstack.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Open Source Cloud
+  image_url: https://img.stackshare.io/service/770/default_36e10c5d2a92f1635eac3695354ae8c4d7d5df11.jpg
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/hadoop-cloud/pom.xml
+  detection_source: hadoop-cloud/pom.xml
+  last_updated_by: Steve Loughran
+  last_updated_on: 2017-05-07 09:15:31.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: HyukjinKwon
+  last_updated_on: 2020-07-27 08:49:21.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/docs/Gemfile
+  detection_source: docs/Gemfile
+  last_updated_by: "“attilapiros”"
+  last_updated_on: 2021-02-18 03:17:57.000000000 Z
+- name: SLF4J
+  description: Simple logging facade for Java
+  website_url: http://slf4j.org/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/kvstore/pom.xml
+  detection_source: common/kvstore/pom.xml
+  last_updated_by: Marcelo Vanzin
+  last_updated_on: 2017-06-06 18:39:10.000000000 Z
+- name: Zookeeper
+  description: Because coordinating distributed systems is a Zoo
+  website_url: http://zookeeper.apache.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Open Source Service Discovery
+  image_url: https://img.stackshare.io/service/1528/apache-zookeeper.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kafka-0-10-assembly/pom.xml
+  detection_source: connector/kafka-0-10-assembly/pom.xml
+  last_updated_by: cody koeninger
+  last_updated_on: 2016-06-30 06:21:03.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/package.json
+  detection_source: dev/package.json
+  last_updated_by: Kousuke Saruta
+  last_updated_on: 2021-05-07 12:55:08.000000000 Z
+- name: Dataform
+  description: A framework for managing SQL based data operations.
+  website_url: https://dataform.co/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Analytics
+  sub_category: Business Intelligence
+  image_url: https://img.stackshare.io/service/11236/Group_22__3_.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kinesis-asl/pom.xml
+  detection_source: connector/kinesis-asl/pom.xml
+  last_updated_by: Sean Owen
+  last_updated_on: 2018-10-18 12:00:00.000000000 Z
+- name: ANTLR
+  description: Posts by Terence Parr, The ANTLR guy, about ANTLR, StringTemplate,
+    parsing, and general computer language cruft.
+  website_url: http://www.antlr.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8585/a159037c4838e54e93d9f630a295c396_normal.jpeg
+  detection_source_url: https://github.com/huhuhuHR/spark
+  detection_source: Repo Metadata
+- name: Base
+  description: All-in-one sales and customer management platform
+  website_url: https://getbase.com/
+  open_source: false
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: CRM
+  image_url: https://img.stackshare.io/service/3633/ZBMmmvP1_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/create-release/spark-rm/Dockerfile
+  detection_source: dev/create-release/spark-rm/Dockerfile
+  last_updated_by: Hyukjin Kwon
+  last_updated_on: 2020-12-30 07:37:23.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/create-release/spark-rm/Dockerfile
+  detection_source: dev/create-release/spark-rm/Dockerfile
+  last_updated_by: Marcelo Vanzin
+  last_updated_on: 2018-06-22 17:38:34.000000000 Z
+- name: IPython
+  description: A command shell for interactive computing in multiple programming languages
+  website_url: http://ipython.org/index.html
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Shells
+  image_url: https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: Rui Wang
+  last_updated_on: 2022-10-11 01:41:03.000000000 Z
+- name: Jekyll
+  description: Blog-aware, static site generator in Ruby
+  website_url: http://jekyllrb.com/
+  version: 4.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Static Site Generators
+  image_url: https://img.stackshare.io/service/1114/ad968c1615d956e800fa36494314f48c.jpeg
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/docs/Gemfile.lock
+  detection_source: docs/Gemfile
+  last_updated_by: Kousuke Saruta
+  last_updated_on: 2021-11-11 23:08:20.000000000 Z
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/spark
+  detection_source: Repo Metadata
+- name: NumPy
+  description: Fundamental package for scientific computing with Python
+  website_url: http://www.numpy.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: HyukjinKwon
+  last_updated_on: 2020-07-27 08:49:21.000000000 Z
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/huhuhuHR/spark
+  detection_source: Repo Metadata
+- name: Q
+  description: A promise library for JavaScript
+  website_url: https://github.com/kriskowal/q
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png
+  detection_source_url: https://github.com/huhuhuHR/spark
+  detection_source: Repo Metadata
+- name: SciPy
+  description: Scientific Computing Tools for Python
+  website_url: http://www.scipy.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/3303/scipyshiny_small.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: HyukjinKwon
+  last_updated_on: 2020-07-27 08:49:21.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/huhuhuHR/spark
+  detection_source: Repo Metadata
+- name: Ubuntu
+  description: The leading OS for PC, tablet, phone and cloud
+  website_url: http://www.ubuntu.com/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/docker/spark-test/base/Dockerfile
+  detection_source: connector/docker/spark-test/base/Dockerfile
+  last_updated_by: William Hyun
+  last_updated_on: 2020-07-17 19:05:45.000000000 Z
+- name: org.apache.zookeeper:zookeeper
+  version: 3.5.7
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kafka-0-10-sql/pom.xml
+  detection_source: connector/kafka-0-10-assembly/pom.xml
+  last_updated_by: Kent Yao
+  last_updated_on: 2022-04-04 08:59:04.000000000 Z
+  vulnerabilities:
+  - name: Authorization Bypass Through User-Controlled Key vulnerability in Apache
+      ZooKeeper
+    cve_id: CVE-2023-44981
+    cve_url: https://github.com/advisories/GHSA-7286-pgfv-vxvh
+    detected_date: Oct 12
+    severity: critical
+    first_patched: 3.7.2
+- name: com.google.protobuf:protobuf-java
+  description: Core Protocol Buffers library
+  version: 2.6.1
+  license: BSD-1-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kinesis-asl-assembly/pom.xml
+  detection_source: connector/connect/client/jvm/pom.xml
+  last_updated_by: vicennial
+  last_updated_on: 2023-01-10 14:43:03.000000000 Z
+  vulnerabilities:
+  - name: NULL Pointer Dereference in Protocol Buffers
+    cve_id: CVE-2021-22570
+    cve_url: https://github.com/advisories/GHSA-77rm-9x9h-xj3g
+    detected_date: Aug 8
+    severity: high
+    first_patched: 3.15.0
+  - name: Protobuf Java vulnerable to Uncontrolled Resource Consumption
+    cve_id: CVE-2022-3510
+    cve_url: https://github.com/advisories/GHSA-4gg5-vx3j-xwc7
+    detected_date: Dec 20
+    severity: high
+    first_patched: 3.16.3
+  - name: Protobuf Java vulnerable to Uncontrolled Resource Consumption
+    cve_id: CVE-2022-3509
+    cve_url: https://github.com/advisories/GHSA-g5ww-5jh7-63cx
+    detected_date: Dec 13
+    severity: high
+    first_patched: 3.16.3
+  - name: A potential Denial of Service issue in protobuf-java
+    cve_id: CVE-2021-22569
+    cve_url: https://github.com/advisories/GHSA-wrvw-hg22-4m67
+    detected_date: Jan 8
+    severity: high
+    first_patched: 3.16.1
+  - name: protobuf-java has a potential Denial of Service issue
+    cve_id: CVE-2022-3171
+    cve_url: https://github.com/advisories/GHSA-h4h5-3hr4-j3g2
+    detected_date: Oct 5
+    severity: moderate
+    first_patched: 3.16.3
+- name: com.h2database:h2
+  description: H2 Database Engine
+  version: 2.1.214
+  license: MIT-feh
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/sql/core/pom.xml
+  detection_source: sql/core/pom.xml
+  last_updated_by: yangjie01
+  last_updated_on: 2022-12-23 23:53:40.000000000 Z
+  vulnerabilities:
+  - name: 'Password exposure in H2 Database '
+    cve_id: CVE-2022-45868
+    cve_url: https://github.com/advisories/GHSA-22wj-vf5f-wrvj
+    detected_date: Nov 24
+    severity: high
+    first_patched: 2.2.220
+- name: io.grpc:grpc-protobuf
+  description: 'GRPC: Protobuf'
+  version: 1.47.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/connect/common/pom.xml
+  detection_source: connector/connect/common/pom.xml
+  last_updated_by: Martin Grund
+  last_updated_on: 2023-01-12 10:25:12.000000000 Z
+  vulnerabilities:
+  - name: gRPC Reachable Assertion issue
+    cve_id: CVE-2023-1428
+    cve_url: https://github.com/advisories/GHSA-6628-q6j9-w8vg
+    detected_date: Jul 7
+    severity: high
+    first_patched: 1.53.0
+  - name: Connection confusion in gRPC
+    cve_id: CVE-2023-32731
+    cve_url: https://github.com/advisories/GHSA-cfgp-2977-2fmm
+    detected_date: Jul 6
+    severity: high
+    first_patched: 1.53.0
+  - name: gRPC connection termination issue
+    cve_id: CVE-2023-32732
+    cve_url: https://github.com/advisories/GHSA-9hxf-ppjv-w6rq
+    detected_date: Jul 7
+    severity: moderate
+    first_patched: 1.53.0
+- name: org.apache.mesos:mesos
+  description: The Apache Mesos Java API jar
+  version: 1.4.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/resource-managers/mesos/pom.xml
+  detection_source: resource-managers/mesos/pom.xml
+  last_updated_by: Warren Zhu
+  last_updated_on: 2021-09-30 04:49:22.000000000 Z
+  vulnerabilities:
+  - name: Crash when decoding malformed HTTP requests or malformed JSON payload
+    cve_id: CVE-2018-1330
+    cve_url: https://github.com/advisories/GHSA-95q3-pppp-r683
+    detected_date: Nov 2
+    severity: high
+    first_patched: 1.6.0
+- name: com.google.guava:guava
+  description: Guava is a suite of core and expanded libraries that include utility
+    classes
+  version: 31.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/connect/client/jvm/pom.xml
+  detection_source: assembly/pom.xml
+  last_updated_by: Marcelo Vanzin
+  last_updated_on: 2016-04-04 23:52:21.000000000 Z
+  vulnerabilities:
+  - name: Guava vulnerable to insecure use of temporary directory
+    cve_id: CVE-2023-2976
+    cve_url: https://github.com/advisories/GHSA-7g45-4rm6-3mm3
+    detected_date: Jun 15
+    severity: moderate
+    first_patched: 32.0.0-android
+  - name: Information Disclosure in Guava
+    cve_id: CVE-2020-8908
+    cve_url: https://github.com/advisories/GHSA-5mg8-w23w-74h3
+    detected_date: Aug 22
+    severity: low
+    first_patched: 32.0.0-android
+- name: com.amazonaws:amazon-kinesis-client
+  description: The Amazon Kinesis Client Library for Java enables Java developers
+    to easily consume and process data from Amazon Kinesis
+  license: JSON
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kinesis-asl/pom.xml
+  detection_source: connector/kinesis-asl/pom.xml
+  last_updated_by: DB Tsai
+  last_updated_on: 2018-11-15 00:22:23.000000000 Z
+- name: com.amazonaws:aws-java-sdk-sts
+  description: The AWS Java SDK for AWS STS module holds the client classes that are
+    used for communicating with AWS Security Token Service
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kinesis-asl/pom.xml
+  detection_source: connector/kinesis-asl/pom.xml
+  last_updated_by: DB Tsai
+  last_updated_on: 2018-11-15 00:22:23.000000000 Z
+- name: com.clearspring.analytics:stream
+  description: A library for summarizing data in streams for which it is infeasible
+    to store all events
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: jianghaonan
+  last_updated_on: 2022-12-11 01:16:33.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-annotations
+  description: Core annotations used for value types
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/kvstore/pom.xml
+  detection_source: common/kvstore/pom.xml
+  last_updated_by: Liang-Chi Hsieh
+  last_updated_on: 2021-12-18 05:40:51.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-core
+  description: Core Jackson processing abstractions
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/kvstore/pom.xml
+  detection_source: common/kvstore/pom.xml
+  last_updated_by: Liang-Chi Hsieh
+  last_updated_on: 2021-12-18 05:40:51.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-databind
+  description: 'General data-binding functionality for Jackson: works on core streaming
+    API'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/kvstore/pom.xml
+  detection_source: common/kvstore/pom.xml
+  last_updated_by: Liang-Chi Hsieh
+  last_updated_on: 2021-12-18 05:40:51.000000000 Z
+- name: com.fasterxml.jackson.dataformat:jackson-dataformat-cbor
+  description: Support for reading and writing Concise Binary Object Representation
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kinesis-asl/pom.xml
+  detection_source: connector/kinesis-asl/pom.xml
+  last_updated_by: Sean Owen
+  last_updated_on: 2018-10-18 12:00:00.000000000 Z
+- name: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml
+  description: Support for reading and writing YAML-encoded data via Jackson abstractions
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/resource-managers/kubernetes/core/pom.xml
+  detection_source: resource-managers/kubernetes/core/pom.xml
+  last_updated_by: Yinan Li
+  last_updated_on: 2017-11-29 07:02:09.000000000 Z
+- name: com.github.jnr:jnr-posix
+  description: Common cross-project/cross-platform POSIX APIs
+  license: EPL-2.0,GPL-3.0-only,LGPL-3.0-only
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: jianghaonan
+  last_updated_on: 2022-12-11 01:16:33.000000000 Z
+- name: com.github.luben:zstd-jni
+  description: JNI bindings for Zstd native library that provides fast and high compression
+    lossless algorithm for Java and all JVM languages
+  license: BSD-1-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: jianghaonan
+  last_updated_on: 2022-12-11 01:16:33.000000000 Z
+- name: com.google.cloud.bigdataoss:gcs-connector
+  description: An implementation of org.apache.hadoop.fs.FileSystem targeting Google
+    Cloud Storage
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/hadoop-cloud/pom.xml
+  detection_source: hadoop-cloud/pom.xml
+  last_updated_by: Dongjoon Hyun
+  last_updated_on: 2022-09-07 00:31:19.000000000 Z
+- name: com.google.code.findbugs:jsr305
+  description: JSR305 Annotations for Findbugs
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/network-common/pom.xml
+  detection_source: common/network-common/pom.xml
+  last_updated_by: Sean Owen
+  last_updated_on: 2021-08-11 23:04:55.000000000 Z
+- name: com.microsoft.sqlserver:mssql-jdbc
+  description: Microsoft JDBC 4.1 Driver for SQL Server
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/docker-integration-tests/pom.xml
+  detection_source: connector/docker-integration-tests/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2022-11-15 03:26:24.000000000 Z
+- name: com.ning:compress-lzf
+  description: Compression codec for LZF encoding for particularly encoding/decoding,
+    with reasonable compression
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: com.spotify:docker-client
+  description: A docker client
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/docker-integration-tests/pom.xml
+  detection_source: connector/docker-integration-tests/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2022-11-15 03:26:24.000000000 Z
+- name: com.sun.jersey.contribs:jersey-guice
+  version: '1.19'
+  license: CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/resource-managers/yarn/pom.xml
+  detection_source: resource-managers/yarn/pom.xml
+  last_updated_by: Yuming Wang
+  last_updated_on: 2019-04-02 20:38:26.000000000 Z
+- name: com.sun.jersey:jersey-core
+  version: '1.19'
+  license: CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/resource-managers/yarn/pom.xml
+  detection_source: resource-managers/yarn/pom.xml
+  last_updated_by: Yuming Wang
+  last_updated_on: 2019-04-02 20:38:26.000000000 Z
+- name: com.sun.jersey:jersey-json
+  version: '1.19'
+  license: CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/resource-managers/yarn/pom.xml
+  detection_source: resource-managers/yarn/pom.xml
+  last_updated_by: Yuming Wang
+  last_updated_on: 2019-04-02 20:38:26.000000000 Z
+- name: com.sun.jersey:jersey-server
+  version: '1.19'
+  license: CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/resource-managers/yarn/pom.xml
+  detection_source: resource-managers/yarn/pom.xml
+  last_updated_by: Chao Sun
+  last_updated_on: 2021-01-15 22:06:50.000000000 Z
+- name: com.sun.jersey:jersey-servlet
+  version: '1.19'
+  license: CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/resource-managers/yarn/pom.xml
+  detection_source: resource-managers/yarn/pom.xml
+  last_updated_by: Chao Sun
+  last_updated_on: 2021-01-15 22:06:50.000000000 Z
+- name: com.twitter:chill-java
+  description: Chill-java
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: jianghaonan
+  last_updated_on: 2022-12-11 01:16:33.000000000 Z
+- name: com.univocity:univocity-parsers
+  description: Univocity's open source parsers for processing different text formats
+    using a consistent API
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/sql/catalyst/pom.xml
+  detection_source: sql/catalyst/pom.xml
+  last_updated_by: Lukas Rytz
+  last_updated_on: 2021-09-13 16:06:50.000000000 Z
+- name: commons-cli:commons-cli
+  description: Apache Commons CLI provides a simple API for presenting
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/sql/hive-thriftserver/pom.xml
+  detection_source: sql/hive-thriftserver/pom.xml
+  last_updated_by: Kousuke Saruta
+  last_updated_on: 2021-03-18 03:31:50.000000000 Z
+- name: commons-codec:commons-codec
+  description: The Apache Commons Codec package contains simple encoder and decoders
+    for various formats such as Base64 and Hexadecimal
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kafka-0-10-assembly/pom.xml
+  detection_source: connector/kafka-0-10-assembly/pom.xml
+  last_updated_by: cody koeninger
+  last_updated_on: 2016-06-30 06:21:03.000000000 Z
+- name: commons-collections:commons-collections
+  description: Types that extend and augment the Java Collections Framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: commons-io:commons-io
+  description: The Apache Commons IO library contains utility classes
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/kvstore/pom.xml
+  detection_source: common/kvstore/pom.xml
+  last_updated_by: Marcelo Vanzin
+  last_updated_on: 2017-06-06 18:39:10.000000000 Z
+- name: commons-lang:commons-lang
+  description: Commons Lang
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kafka-0-10-assembly/pom.xml
+  detection_source: connector/kafka-0-10-assembly/pom.xml
+  last_updated_by: Liang-Chi Hsieh
+  last_updated_on: 2021-12-18 05:40:51.000000000 Z
+- name: io.dropwizard.metrics:metrics-core
+  description: Metrics is a Java library which gives you unparalleled insight into
+    what your code does in production
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/kvstore/pom.xml
+  detection_source: common/kvstore/pom.xml
+  last_updated_by: Liang-Chi Hsieh
+  last_updated_on: 2021-12-18 05:40:51.000000000 Z
+- name: io.dropwizard.metrics:metrics-graphite
+  description: A reporter for Metrics which announces measurements to a Graphite server
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Sean Owen
+  last_updated_on: 2019-11-03 23:13:06.000000000 Z
+- name: io.dropwizard.metrics:metrics-json
+  description: A set of Jackson modules which provide serializers for most Metrics
+    classes
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Sean Owen
+  last_updated_on: 2019-11-03 23:13:06.000000000 Z
+- name: io.dropwizard.metrics:metrics-jvm
+  description: A set of classes which allow you to monitor critical aspects of your
+    Java Virtual Machine using Metrics
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Sean Owen
+  last_updated_on: 2019-11-03 23:13:06.000000000 Z
+- name: io.fabric8:kubernetes-client
+  description: Java client for Kubernetes &amp; OpenShift
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/resource-managers/kubernetes/core/pom.xml
+  detection_source: resource-managers/kubernetes/core/pom.xml
+  last_updated_by: attilapiros
+  last_updated_on: 2022-09-29 19:19:17.000000000 Z
+- name: io.grpc:grpc-netty
+  description: 'GRPC: Netty'
+  version: 1.47.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/connect/common/pom.xml
+  detection_source: connector/connect/common/pom.xml
+  last_updated_by: vicennial
+  last_updated_on: 2022-12-06 21:06:31.000000000 Z
+- name: io.grpc:grpc-stub
+  description: 'GRPC: Stub'
+  version: 1.47.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/connect/common/pom.xml
+  detection_source: connector/connect/common/pom.xml
+  last_updated_by: vicennial
+  last_updated_on: 2022-12-06 21:06:31.000000000 Z
+- name: io.netty:netty-all
+  description: Netty is an asynchronous event-driven network application framework
+    for rapid development of maintainable high performance protocol servers and clients
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/network-common/pom.xml
+  detection_source: common/network-common/pom.xml
+  last_updated_by: yangjie01
+  last_updated_on: 2022-04-24 16:02:02.000000000 Z
+- name: io.netty:netty-codec-http2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/connect/common/pom.xml
+  detection_source: connector/connect/common/pom.xml
+  last_updated_by: vicennial
+  last_updated_on: 2022-12-06 21:06:31.000000000 Z
+- name: io.netty:netty-handler-proxy
+  description: Netty project - an event-driven asynchronous network application framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/connect/common/pom.xml
+  detection_source: connector/connect/common/pom.xml
+  last_updated_by: vicennial
+  last_updated_on: 2022-12-06 21:06:31.000000000 Z
+- name: io.netty:netty-transport-native-epoll
+  description: Netty project - an event-driven asynchronous network application framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/network-common/pom.xml
+  detection_source: common/network-common/pom.xml
+  last_updated_by: yangjie01
+  last_updated_on: 2022-04-24 16:02:02.000000000 Z
+- name: io.netty:netty-transport-native-unix-common
+  description: Static library which contains common unix utilities
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/connect/common/pom.xml
+  detection_source: connector/connect/common/pom.xml
+  last_updated_by: Martin Grund
+  last_updated_on: 2023-01-12 10:25:12.000000000 Z
+- name: javax.activation:activation
+  description: The JavaBeans
+  license: CDDL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: jianghaonan
+  last_updated_on: 2022-12-11 01:16:33.000000000 Z
+- name: joda-time:joda-time
+  description: Date and time library to replace JDK date handling
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/hadoop-cloud/pom.xml
+  detection_source: hadoop-cloud/pom.xml
+  last_updated_by: Chao Sun
+  last_updated_on: 2021-01-15 22:06:50.000000000 Z
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: 4.13.2
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: yangjie01
+  last_updated_on: 2023-01-09 05:21:50.000000000 Z
+- name: net.sf.jopt-simple:jopt-simple
+  description: A Java library for parsing command line options
+  version: '3.2'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kafka-0-10-sql/pom.xml
+  detection_source: connector/kafka-0-10-sql/pom.xml
+  last_updated_by: Shixiong Zhu
+  last_updated_on: 2016-10-05 23:45:45.000000000 Z
+- name: net.sf.py4j:py4j
+  description: Py4J enables Python programs running in a Python interpreter to dynamically
+    access Java objects in a Java Virtual Machine
+  version: 0.10.9
+  license: DSDP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Sean Owen
+  last_updated_on: 2019-06-15 05:19:20.000000000 Z
+- name: net.sourceforge.f2j:arpack_combined_all
+  description: Java APIs for the BLAS
+  version: '0.1'
+  license: DSDP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/graphx/pom.xml
+  detection_source: graphx/pom.xml
+  last_updated_by: Xiangrui Meng
+  last_updated_on: 2015-03-12 08:39:04.000000000 Z
+- name: net.sourceforge.htmlunit:htmlunit
+  description: A headless browser intended for use in testing web-based applications
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: jianghaonan
+  last_updated_on: 2022-12-11 01:16:33.000000000 Z
+- name: org.antlr:antlr4-runtime
+  description: The ANTLR 4 Runtime
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/sql/catalyst/pom.xml
+  detection_source: sql/catalyst/pom.xml
+  last_updated_by: Lukas Rytz
+  last_updated_on: 2021-09-13 16:06:50.000000000 Z
+- name: org.apache.avro:avro
+  description: Avro core components
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.apache.avro:avro-mapred
+  description: An org.apache.hadoop.mapred compatible API for using Avro Serializatin
+    in Hadoop
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kafka-0-10-assembly/pom.xml
+  detection_source: connector/kafka-0-10-assembly/pom.xml
+  last_updated_by: Kent Yao
+  last_updated_on: 2022-04-04 08:59:04.000000000 Z
+- name: org.apache.commons:commons-collections4
+  description: The Apache Commons Collections package contains types that extend and
+    augment the Java Collections Framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.apache.commons:commons-compress
+  description: Apache Commons Compress software defines an API for working with compression
+    and archive formats
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.apache.commons:commons-lang3
+  description: Apache Commons Lang
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/network-common/pom.xml
+  detection_source: common/network-common/pom.xml
+  last_updated_by: yangjie01
+  last_updated_on: 2022-09-09 02:05:50.000000000 Z
+- name: org.apache.commons:commons-math3
+  description: The Apache Commons Math project is a library of lightweight
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.apache.commons:commons-pool2
+  description: The Apache Commons Object Pooling Library
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kafka-0-10-sql/pom.xml
+  detection_source: connector/kafka-0-10-sql/pom.xml
+  last_updated_by: Lukas Rytz
+  last_updated_on: 2021-09-13 16:06:50.000000000 Z
+- name: org.apache.commons:commons-text
+  description: Apache Commons Text is a library focused on algorithms working on strings
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/unsafe/pom.xml
+  detection_source: common/unsafe/pom.xml
+  last_updated_by: Kent Yao
+  last_updated_on: 2022-04-04 08:59:04.000000000 Z
+- name: org.apache.curator:curator-recipes
+  description: All of the recipes listed on the ZooKeeper recipes doc
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kafka-0-10-assembly/pom.xml
+  detection_source: connector/kafka-0-10-assembly/pom.xml
+  last_updated_by: Kent Yao
+  last_updated_on: 2022-04-04 08:59:04.000000000 Z
+- name: org.apache.curator:curator-test
+  description: Unit testing utilities
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.apache.derby:derby
+  description: Contains the core Apache Derby database engine
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.apache.hadoop:hadoop-aws
+  description: This module contains code to support integration with Amazon Web Services
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.apache.hadoop:hadoop-minikdc
+  description: Apache Hadoop MiniKDC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/docker-integration-tests/pom.xml
+  detection_source: connector/docker-integration-tests/pom.xml
+  last_updated_by: Kent Yao
+  last_updated_on: 2022-04-04 08:59:04.000000000 Z
+- name: org.apache.httpcomponents:httpclient
+  description: Apache HttpComponents Client
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/docker-integration-tests/pom.xml
+  detection_source: connector/docker-integration-tests/pom.xml
+  last_updated_by: Kent Yao
+  last_updated_on: 2022-04-04 08:59:04.000000000 Z
+- name: org.apache.httpcomponents:httpcore
+  description: Apache HttpComponents Core
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/docker-integration-tests/pom.xml
+  detection_source: connector/docker-integration-tests/pom.xml
+  last_updated_by: Kent Yao
+  last_updated_on: 2022-04-04 08:59:04.000000000 Z
+- name: org.apache.httpcomponents:httpmime
+  description: Apache HttpComponents HttpClient - MIME coded entities
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.apache.ivy:ivy
+  description: POM was created by Sonatype Nexus
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.apache.kafka:kafka-clients
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kafka-0-10-sql/pom.xml
+  detection_source: connector/kafka-0-10-sql/pom.xml
+  last_updated_by: Lukas Rytz
+  last_updated_on: 2021-09-13 16:06:50.000000000 Z
+- name: org.apache.logging.log4j:log4j-1.2-api
+  description: The Apache Log4j 1.x Compatibility API
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/kvstore/pom.xml
+  detection_source: common/kvstore/pom.xml
+  last_updated_by: yangjie01
+  last_updated_on: 2022-10-06 07:09:38.000000000 Z
+- name: org.apache.logging.log4j:log4j-api
+  description: The Apache Log4j API
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/kvstore/pom.xml
+  detection_source: common/kvstore/pom.xml
+  last_updated_by: yangjie01
+  last_updated_on: 2022-10-06 07:09:38.000000000 Z
+- name: org.apache.logging.log4j:log4j-core
+  description: The Apache Log4j Implementation
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/kvstore/pom.xml
+  detection_source: common/kvstore/pom.xml
+  last_updated_by: yangjie01
+  last_updated_on: 2022-10-06 07:09:38.000000000 Z
+- name: org.apache.orc:orc-core
+  description: The core reader and writer for ORC files
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/sql/core/pom.xml
+  detection_source: sql/core/pom.xml
+  last_updated_by: yangjie01
+  last_updated_on: 2022-10-24 13:30:34.000000000 Z
+- name: org.apache.parquet:parquet-avro
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/sql/core/pom.xml
+  detection_source: sql/core/pom.xml
+  last_updated_by: yangjie01
+  last_updated_on: 2022-10-24 13:30:34.000000000 Z
+- name: org.apache.parquet:parquet-column
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/sql/core/pom.xml
+  detection_source: sql/core/pom.xml
+  last_updated_by: yangjie01
+  last_updated_on: 2022-10-24 13:30:34.000000000 Z
+- name: org.apache.parquet:parquet-common
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/sql/core/pom.xml
+  detection_source: sql/core/pom.xml
+  last_updated_by: yangjie01
+  last_updated_on: 2022-10-24 13:30:34.000000000 Z
+- name: org.apache.parquet:parquet-hadoop
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/sql/core/pom.xml
+  detection_source: sql/core/pom.xml
+  last_updated_by: yangjie01
+  last_updated_on: 2022-10-24 13:30:34.000000000 Z
+- name: org.apache.thrift:libfb303
+  description: Thrift is a software framework for scalable cross-language services
+    development
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/resource-managers/yarn/pom.xml
+  detection_source: resource-managers/yarn/pom.xml
+  last_updated_by: Chao Sun
+  last_updated_on: 2021-09-26 05:39:36.000000000 Z
+- name: org.apache.thrift:libthrift
+  description: Thrift is a software framework for scalable cross-language services
+    development
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/resource-managers/yarn/pom.xml
+  detection_source: resource-managers/yarn/pom.xml
+  last_updated_by: Chao Sun
+  last_updated_on: 2021-09-26 05:39:36.000000000 Z
+- name: org.apache.tomcat:annotations-api
+  description: Annotations Package
+  version: 6.0.53
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/connect/common/pom.xml
+  detection_source: connector/connect/common/pom.xml
+  last_updated_by: Martin Grund
+  last_updated_on: 2023-01-12 10:25:12.000000000 Z
+- name: org.codehaus.jackson:jackson-mapper-asl
+  description: Data Mapper package is a high-performance data binding package built
+    on Jackson JSON processor
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/sql/hive/pom.xml
+  detection_source: sql/hive/pom.xml
+  last_updated_by: Lukas Rytz
+  last_updated_on: 2021-09-13 16:06:50.000000000 Z
+- name: org.codehaus.janino:commons-compiler
+  description: The "commons-compiler" API
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/sql/catalyst/pom.xml
+  detection_source: sql/catalyst/pom.xml
+  last_updated_by: Lukas Rytz
+  last_updated_on: 2021-09-13 16:06:50.000000000 Z
+- name: org.codehaus.janino:janino
+  description: 'The "JANINO" implementation of the "commons-compiler" API: Super-small'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/sql/catalyst/pom.xml
+  detection_source: sql/catalyst/pom.xml
+  last_updated_by: Lukas Rytz
+  last_updated_on: 2021-09-13 16:06:50.000000000 Z
+- name: org.datanucleus:datanucleus-core
+  description: DataNucleus Core provides the primary components of a heterogenous
+    Java persistence solution
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/sql/hive/pom.xml
+  detection_source: sql/hive/pom.xml
+  last_updated_by: Lukas Rytz
+  last_updated_on: 2021-09-13 16:06:50.000000000 Z
+- name: org.eclipse.jetty.orbit:javax.servlet.jsp
+  description: This artifact originates from the Orbit Project at Eclipse
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/resource-managers/yarn/pom.xml
+  detection_source: resource-managers/yarn/pom.xml
+  last_updated_by: Chao Sun
+  last_updated_on: 2021-09-26 05:39:36.000000000 Z
+- name: org.eclipse.jetty.orbit:javax.servlet.jsp.jstl
+  description: This artifact originates from the Orbit Project at Eclipse
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/resource-managers/yarn/pom.xml
+  detection_source: resource-managers/yarn/pom.xml
+  last_updated_by: Chao Sun
+  last_updated_on: 2021-09-26 05:39:36.000000000 Z
+- name: org.eclipse.jetty:jetty-client
+  description: The Eclipse Jetty Project
+  license: Apache-2.0,EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.eclipse.jetty:jetty-continuation
+  description: Asynchronous API
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.eclipse.jetty:jetty-http
+  description: The Eclipse Jetty Project
+  license: Apache-2.0,EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.eclipse.jetty:jetty-plus
+  description: Jetty JavaEE style services
+  license: Apache-2.0,EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.eclipse.jetty:jetty-proxy
+  description: Jetty Proxy
+  license: Apache-2.0,EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.eclipse.jetty:jetty-security
+  description: Jetty security infrastructure
+  license: Apache-2.0,EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.eclipse.jetty:jetty-server
+  description: The core jetty server artifact
+  license: Apache-2.0,EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.eclipse.jetty:jetty-servlet
+  description: Jetty Servlet Container
+  license: Apache-2.0,EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kafka-0-10-sql/pom.xml
+  detection_source: connector/kafka-0-10-sql/pom.xml
+  last_updated_by: Lukas Rytz
+  last_updated_on: 2021-09-13 16:06:50.000000000 Z
+- name: org.eclipse.jetty:jetty-servlets
+  description: Utility Servlets from Jetty
+  license: Apache-2.0,EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.eclipse.jetty:jetty-util
+  description: Utility classes for Jetty
+  license: Apache-2.0,EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.glassfish.jaxb:jaxb-runtime
+  description: JAXB
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/mllib/pom.xml
+  detection_source: mllib/pom.xml
+  last_updated_by: yangjie01
+  last_updated_on: 2021-12-31 01:20:43.000000000 Z
+- name: org.glassfish.jersey.containers:jersey-container-servlet
+  description: Jersey core Servlet 3.x implementation
+  license: NetCDF
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.glassfish.jersey.containers:jersey-container-servlet-core
+  description: Jersey core Servlet 2.x implementation
+  license: NetCDF
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.glassfish.jersey.core:jersey-client
+  description: Jersey core client implementation
+  license: NetCDF
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kinesis-asl-assembly/pom.xml
+  detection_source: connector/kinesis-asl-assembly/pom.xml
+  last_updated_by: Liang-Chi Hsieh
+  last_updated_on: 2021-12-18 05:40:51.000000000 Z
+- name: org.glassfish.jersey.core:jersey-common
+  description: Jersey core common packages
+  license: NetCDF
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kinesis-asl-assembly/pom.xml
+  detection_source: connector/kinesis-asl-assembly/pom.xml
+  last_updated_by: Liang-Chi Hsieh
+  last_updated_on: 2021-12-18 05:40:51.000000000 Z
+- name: org.glassfish.jersey.core:jersey-server
+  description: Jersey core server implementation
+  license: NetCDF
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kinesis-asl-assembly/pom.xml
+  detection_source: connector/kinesis-asl-assembly/pom.xml
+  last_updated_by: Liang-Chi Hsieh
+  last_updated_on: 2021-12-18 05:40:51.000000000 Z
+- name: org.glassfish.jersey.inject:jersey-hk2
+  description: HK2 InjectionManager implementation
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.jmock:jmock-junit4
+  description: An expressive Mock Object library for Test Driven Development
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kafka-0-10-sql/pom.xml
+  detection_source: connector/kafka-0-10-sql/pom.xml
+  last_updated_by: Lukas Rytz
+  last_updated_on: 2021-09-13 16:06:50.000000000 Z
+- name: org.jodd:jodd-core
+  description: Jodd Core tools and huge number of utilities
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/sql/hive/pom.xml
+  detection_source: sql/hive/pom.xml
+  last_updated_by: Lukas Rytz
+  last_updated_on: 2021-09-13 16:06:50.000000000 Z
+- name: org.jpmml:pmml-model
+  description: JPMML class model
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/mllib/pom.xml
+  detection_source: mllib/pom.xml
+  last_updated_by: yangjie01
+  last_updated_on: 2021-12-31 01:20:43.000000000 Z
+- name: org.lz4:lz4-java
+  description: Java ports and bindings of the LZ4 compression algorithm and the xxHash
+    hashing algorithm
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kafka-0-10-assembly/pom.xml
+  detection_source: connector/kafka-0-10-assembly/pom.xml
+  last_updated_by: Liang-Chi Hsieh
+  last_updated_on: 2021-12-18 05:40:51.000000000 Z
+- name: org.mariadb.jdbc:mariadb-java-client
+  description: JDBC driver for MariaDB and MySQL
+  license: LGPL-2.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/docker-integration-tests/pom.xml
+  detection_source: connector/docker-integration-tests/pom.xml
+  last_updated_by: Gabor Somogyi
+  last_updated_on: 2020-06-23 10:58:40.000000000 Z
+- name: org.mockito:mockito-core
+  description: Mockito mock objects library core API and implementation
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/network-common/pom.xml
+  detection_source: common/network-common/pom.xml
+  last_updated_by: yangjie01
+  last_updated_on: 2022-09-09 02:05:50.000000000 Z
+- name: org.mockito:mockito-inline
+  description: Mockito preconfigured inline mock maker
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/mllib-local/pom.xml
+  detection_source: mllib-local/pom.xml
+  last_updated_by: yangjie01
+  last_updated_on: 2021-12-31 01:20:43.000000000 Z
+- name: org.postgresql:postgresql
+  description: The PostgreSQL Driver JDBC4
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/docker-integration-tests/pom.xml
+  detection_source: connector/docker-integration-tests/pom.xml
+  last_updated_by: Gabor Somogyi
+  last_updated_on: 2020-04-09 16:20:02.000000000 Z
+- name: org.roaringbitmap:RoaringBitmap
+  description: Roaring bitmaps are compressed bitmaps
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/network-common/pom.xml
+  detection_source: common/network-common/pom.xml
+  last_updated_by: yangjie01
+  last_updated_on: 2022-09-09 02:05:50.000000000 Z
+- name: org.rocksdb:rocksdbjni
+  description: RocksDB fat jar that contains .so files for linux32 and linux64
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/kvstore/pom.xml
+  detection_source: common/kvstore/pom.xml
+  last_updated_by: Liang-Chi Hsieh
+  last_updated_on: 2021-12-18 05:40:51.000000000 Z
+- name: org.scala-lang:scala-compiler
+  description: Compiler for the Scala Programming Language
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/repl/pom.xml
+  detection_source: repl/pom.xml
+  last_updated_by: Sean Owen
+  last_updated_on: 2019-12-03 16:59:43.000000000 Z
+- name: org.scala-lang:scala-library
+  description: Standard library for the Scala Programming Language
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/network-common/pom.xml
+  detection_source: common/network-common/pom.xml
+  last_updated_by: yangjie01
+  last_updated_on: 2022-09-09 02:05:50.000000000 Z
+- name: org.scala-lang:scala-reflect
+  description: Compiler for the Scala Programming Language
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.scalatest:scalatest_2.12
+  description: Scalatest
+  version: 3.2.15
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-13 15:15:55.000000000 Z
+- name: org.seleniumhq.selenium:htmlunit-driver
+  description: WebDriver compatible driver for HtmlUnit headless browser
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.seleniumhq.selenium:selenium-java
+  description: Selenium automates browsers
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.slf4j:jcl-over-slf4j
+  description: JCL 1.2 implemented over SLF4J
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.slf4j:jul-to-slf4j
+  description: JUL to SLF4J bridge
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: panbingkun
+  last_updated_on: 2023-01-06 14:17:55.000000000 Z
+- name: org.slf4j:slf4j-api
+  description: The slf4j API
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/common/kvstore/pom.xml
+  detection_source: common/kvstore/pom.xml
+  last_updated_by: yangjie01
+  last_updated_on: 2022-10-06 07:09:38.000000000 Z
+- name: org.spark-project.spark:unused
+  description: Apache Spark
+  version: 1.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/assembly/pom.xml
+  detection_source: assembly/pom.xml
+  last_updated_by: Kent Yao
+  last_updated_on: 2022-04-04 08:59:04.000000000 Z
+- name: org.tukaani:xz
+  description: XZ data compression
+  license: Unlicense
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/avro/pom.xml
+  detection_source: connector/avro/pom.xml
+  last_updated_by: Lukas Rytz
+  last_updated_on: 2021-09-13 16:06:50.000000000 Z
+- name: org.xerial.snappy:snappy-java
+  description: 'Snappy-java: A fast compression/decompression library'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/connector/kafka-0-10-assembly/pom.xml
+  detection_source: connector/kafka-0-10-assembly/pom.xml
+  last_updated_by: Liang-Chi Hsieh
+  last_updated_on: 2021-12-18 05:40:51.000000000 Z
+- name: oro:oro
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: liguoqiang
+  last_updated_on: 2014-01-01 03:30:08.000000000 Z
+- name: xml-apis:xml-apis
+  description: Xml-commons provides an Apache-hosted set of DOM, SAX, and JAXP interfaces
+    for use in other xml-based projects
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: Liang-Chi Hsieh
+  last_updated_on: 2021-12-18 05:40:51.000000000 Z
+- name: mlflow
+  description: 'MLflow: An ML Workflow Tool'
+  package_url: https://pypi.org/project/mlflow
+  version: '1.0'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: itholic
+  last_updated_on: 2021-07-30 07:04:48.000000000 Z
+  vulnerabilities:
+  - name: Remote file access vulnerability in `mlflow server` and `mlflow ui` CLIs
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-83fm-w79m-64r5
+    detected_date: May 2
+    severity: critical
+    first_patched: 2.3.1
+  - name: Relative path traversal in mlflow
+    cve_id: CVE-2023-2356
+    cve_url: https://github.com/advisories/GHSA-x422-6qhv-p29g
+    detected_date: May 2
+    severity: critical
+    first_patched: 2.3.1
+  - name: MLflow authentication requirement bypass can allow a user to arbitrarily
+      create an account
+    cve_id: CVE-2023-6014
+    cve_url: https://github.com/advisories/GHSA-4qq5-mxxx-m6gg
+    detected_date: Nov 18
+    severity: critical
+    first_patched: 2.8.0
+  - name: Remote code execution in mlflow
+    cve_id: CVE-2024-0520
+    cve_url: https://github.com/advisories/GHSA-5q6c-ffvg-xcm9
+    detected_date: Jun 7
+    severity: critical
+    first_patched: 2.9.0
+  - name: mlflow is vulnerable to remote file access in `mlflow server` and `mlflow
+      ui` CLIs
+    cve_id: CVE-2023-1177
+    cve_url: https://github.com/advisories/GHSA-xg73-94fp-g449
+    detected_date: Mar 25
+    severity: critical
+    first_patched: 2.2.1
+  - name: MLflow Path Traversal vulnerability
+    cve_id: CVE-2023-3765
+    cve_url: https://github.com/advisories/GHSA-fmxj-6h9g-6vw3
+    detected_date: Jul 28
+    severity: critical
+    first_patched: 2.5.0
+  - name: mlflow vulnerable to Path Traversal
+    cve_id: CVE-2024-3573
+    cve_url: https://github.com/advisories/GHSA-hq88-wg7q-gp4g
+    detected_date: Apr 17
+    severity: critical
+    first_patched: 2.10.0
+  - name: Remote Code Execution due to Full Controled File Write in mlflow
+    cve_id: CVE-2023-6018
+    cve_url: https://github.com/advisories/GHSA-5p3h-7fwh-92rc
+    detected_date: Nov 29
+    severity: critical
+    first_patched:
+  - name: Path traversal in MLflow
+    cve_id: CVE-2023-6831
+    cve_url: https://github.com/advisories/GHSA-554w-xh4j-8w64
+    detected_date: Dec 16
+    severity: critical
+    first_patched: 2.9.2
+  - name: mlflow Path Traversal vulnerability
+    cve_id: CVE-2023-2780
+    cve_url: https://github.com/advisories/GHSA-wjq3-7jxx-whj9
+    detected_date: May 18
+    severity: critical
+    first_patched: 2.3.0
+  - name: MLflow Server-Side Request Forgery (SSRF)
+    cve_id: CVE-2023-6974
+    cve_url: https://github.com/advisories/GHSA-59v3-898r-qwhj
+    detected_date: Dec 21
+    severity: critical
+    first_patched: 2.9.2
+  - name: MLflow allowed arbitrary files to be PUT onto the server
+    cve_id: CVE-2023-6015
+    cve_url: https://github.com/advisories/GHSA-f798-qm4r-23r5
+    detected_date: Nov 17
+    severity: critical
+    first_patched: 2.8.1
+  - name: MLFlow Path Traversal Vulnerability
+    cve_id: CVE-2023-6975
+    cve_url: https://github.com/advisories/GHSA-hh8p-p8mp-gqhm
+    detected_date: Dec 21
+    severity: critical
+    first_patched: 2.9.2
+  - name: Jinja2 template injection in mlflow
+    cve_id: CVE-2023-6709
+    cve_url: https://github.com/advisories/GHSA-cxfr-5q3r-2rc2
+    detected_date: Dec 14
+    severity: high
+    first_patched: 2.9.2
+  - name: MLFlow unsafe deserialization
+    cve_id: CVE-2024-37059
+    cve_url: https://github.com/advisories/GHSA-wf7f-8fxf-xfxc
+    detected_date: Jun 6
+    severity: high
+    first_patched:
+  - name: Path traversal in MLflow
+    cve_id: CVE-2023-6753
+    cve_url: https://github.com/advisories/GHSA-v945-r3rc-6fjm
+    detected_date: Dec 14
+    severity: high
+    first_patched: 2.9.2
+  - name: Local File Inclusion in mlflow
+    cve_id: CVE-2024-2928
+    cve_url: https://github.com/advisories/GHSA-j46q-5pxx-8vmw
+    detected_date: Jun 7
+    severity: high
+    first_patched: 2.11.3
+  - name: mflow vulnerable to directory traversal
+    cve_id: CVE-2023-30172
+    cve_url: https://github.com/advisories/GHSA-wc6j-5g83-xfm6
+    detected_date: May 12
+    severity: high
+    first_patched: 2.0.0rc0
+  - name: mlflow vulnerable to OS Command Injection
+    cve_id: CVE-2023-4033
+    cve_url: https://github.com/advisories/GHSA-ffw3-6378-cqgp
+    detected_date: Aug 2
+    severity: high
+    first_patched: 2.6.0
+  - name: mlflow Command Injection vulnerability
+    cve_id: CVE-2023-6940
+    cve_url: https://github.com/advisories/GHSA-hvc6-42vf-jhf8
+    detected_date: Dec 20
+    severity: high
+    first_patched: 2.9.2
+  - name: MLflow Path Traversal Vulnerability
+    cve_id: CVE-2023-6909
+    cve_url: https://github.com/advisories/GHSA-5r3q-93q3-f978
+    detected_date: Dec 21
+    severity: high
+    first_patched: 2.9.2
+  - name: MLflow Path Traversal Vulnerability
+    cve_id: CVE-2023-6976
+    cve_url: https://github.com/advisories/GHSA-wv8q-4f85-2p8p
+    detected_date: Dec 21
+    severity: high
+    first_patched: 2.9.2
+  - name: MLflow Local File Disclosure Vulnerability
+    cve_id: CVE-2023-6977
+    cve_url: https://github.com/advisories/GHSA-qg8p-32gr-gh6x
+    detected_date: Dec 21
+    severity: high
+    first_patched: 2.9.2
+  - name: Cross-site Scripting in MLFlow
+    cve_id: CVE-2024-27132
+    cve_url: https://github.com/advisories/GHSA-6749-m5cp-6cg7
+    detected_date: Feb 27
+    severity: high
+    first_patched: 2.10.0
+  - name: Insecure Temporary File in mlflow
+    cve_id: CVE-2022-0736
+    cve_url: https://github.com/advisories/GHSA-vqj2-4v8m-8vrq
+    detected_date: Feb 26
+    severity: high
+    first_patched: 1.23.1
+  - name: mlflow vulnerable to Path Traversal
+    cve_id: CVE-2024-1594
+    cve_url: https://github.com/advisories/GHSA-m49c-5c52-6696
+    detected_date: Apr 17
+    severity: high
+    first_patched:
+  - name: mlflow vulnerable to Path Traversal
+    cve_id: CVE-2024-1593
+    cve_url: https://github.com/advisories/GHSA-f42m-mvfv-cgw5
+    detected_date: Apr 17
+    severity: high
+    first_patched:
+  - name: mlflow vulnerable to Path Traversal
+    cve_id: CVE-2024-1560
+    cve_url: https://github.com/advisories/GHSA-5mvj-wmgj-7q8c
+    detected_date: Apr 17
+    severity: high
+    first_patched:
+  - name: MLFlow unsafe deserialization
+    cve_id: CVE-2024-37054
+    cve_url: https://github.com/advisories/GHSA-ghv6-9r9j-wh4j
+    detected_date: Jun 6
+    severity: high
+    first_patched:
+  - name: mlflow Path Traversal vulnerability
+    cve_id: CVE-2024-1483
+    cve_url: https://github.com/advisories/GHSA-f82r-jj5r-6g97
+    detected_date: Apr 17
+    severity: high
+    first_patched:
+  - name: MLFlow Cross-site Scripting vulnerability leads to client-side Remote Code
+      Execution
+    cve_id: CVE-2024-27133
+    cve_url: https://github.com/advisories/GHSA-3v79-q7ph-j75h
+    detected_date: Feb 28
+    severity: high
+    first_patched: 2.10.0
+  - name: Information exposure in MLflow
+    cve_id: CVE-2023-43472
+    cve_url: https://github.com/advisories/GHSA-wqxf-447m-6f5f
+    detected_date: Dec 12
+    severity: high
+    first_patched: 2.9.0
+  - name: mlflow vulnerable to Path Traversal
+    cve_id: CVE-2024-1558
+    cve_url: https://github.com/advisories/GHSA-j62r-wxqq-f3gf
+    detected_date: Apr 26
+    severity: high
+    first_patched:
+  - name: Cross-site Scripting (XSS) in MLflow
+    cve_id: CVE-2023-6568
+    cve_url: https://github.com/advisories/GHSA-vwhf-3v6x-wff8
+    detected_date: Dec 12
+    severity: moderate
+    first_patched: 2.9.0
+  - name: Undefined Behavior in mlflow
+    cve_id: CVE-2024-3099
+    cve_url: https://github.com/advisories/GHSA-8f8q-q2j7-7j2m
+    detected_date: Jun 7
+    severity: moderate
+    first_patched: 2.11.3
+  - name: MLflow allows low privilege users to delete any artifact
+    cve_id: CVE-2024-4263
+    cve_url: https://github.com/advisories/GHSA-p4jx-q62p-x5jr
+    detected_date: May 17
+    severity: moderate
+    first_patched: 2.10.1
+  - name: Remote file existence check vulnerability in `mlflow server` and `mlflow
+      ui` CLIs
+    cve_id: CVE-2023-1176
+    cve_url: https://github.com/advisories/GHSA-wp72-7hj9-5265
+    detected_date: Mar 25
+    severity: low
+    first_patched: 2.2.1
+- name: grpcio
+  description: HTTP/2-based RPC framework
+  package_url: https://pypi.org/project/grpcio
+  version: 1.48.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19903/default_1d0eb6da6bdd342bb15f73d8f1721516ebacd1dc.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: Martin Grund
+  last_updated_on: 2022-12-29 00:04:21.000000000 Z
+  vulnerabilities:
+  - name: gRPC Reachable Assertion issue
+    cve_id: CVE-2023-1428
+    cve_url: https://github.com/advisories/GHSA-6628-q6j9-w8vg
+    detected_date: Jul 7
+    severity: high
+    first_patched: 1.53.0
+  - name: Connection confusion in gRPC
+    cve_id: CVE-2023-32731
+    cve_url: https://github.com/advisories/GHSA-cfgp-2977-2fmm
+    detected_date: Jul 6
+    severity: high
+    first_patched: 1.53.0
+  - name: gRPC connection termination issue
+    cve_id: CVE-2023-32732
+    cve_url: https://github.com/advisories/GHSA-9hxf-ppjv-w6rq
+    detected_date: Jul 7
+    severity: moderate
+    first_patched: 1.53.0
+- name: black
+  description: The uncompromising code formatter
+  package_url: https://pypi.org/project/black
+  version: 22.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20099/default_029b9bbfb6be2cd34bebeda5b8e1e80a1d22441c.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: Martin Grund
+  last_updated_on: 2022-08-01 07:56:35.000000000 Z
+  vulnerabilities:
+  - name: Black vulnerable to Regular Expression Denial of Service (ReDoS)
+    cve_id: CVE-2024-21503
+    cve_url: https://github.com/advisories/GHSA-fj7x-q9j7-g6q6
+    detected_date: Mar 21
+    severity: moderate
+    first_patched: 24.3.0
+- name: PyGithub
+  description: Use the full Github API v3
+  package_url: https://pypi.org/project/PyGithub
+  license: LGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19957/default_f0290ff2792e2af7d13f5c82ed82206842ec288d.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: Hyukjin Kwon
+  last_updated_on: 2021-06-04 06:02:29.000000000 Z
+- name: coverage
+  description: Code coverage measurement for Python
+  package_url: https://pypi.org/project/coverage
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19904/default_1d0eb6da6bdd342bb15f73d8f1721516ebacd1dc.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: Hyukjin Kwon
+  last_updated_on: 2021-08-01 12:37:19.000000000 Z
+- name: docutils
+  description: Docutils -- Python Documentation Utilities
+  package_url: https://pypi.org/project/docutils
+  version: 0.18.0
+  license: Unlicense,Python-2.0,BSD-2-Clause,CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19874/default_7ed3c4ccf2a3218ae3655165b980bd4a90a445dc.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: Hyukjin Kwon
+  last_updated_on: 2022-06-09 05:26:45.000000000 Z
+- name: flake8
+  description: 'The modular source code checker: pep8, pyflakes and co'
+  package_url: https://pypi.org/project/flake8
+  version: 3.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19920/default_c8be5290cb8d8a8b578535a2c6475d1057ff4ea4.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: Nicholas Chammas
+  last_updated_on: 2021-11-23 23:58:28.000000000 Z
+- name: googleapis-common-protos
+  description: Common protobufs used in Google APIs
+  package_url: https://pypi.org/project/googleapis-common-protos
+  version: 1.56.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20036/default_a7a70921d2d3189665c78015850dc968f41705a1.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: Martin Grund
+  last_updated_on: 2022-12-29 00:04:21.000000000 Z
+- name: jira
+  description: Python library for interacting with JIRA via REST APIs
+  package_url: https://pypi.org/project/jira
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20299/default_00525766b5d1b7a358cc1912c2d8907cee4c2347.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: Hyukjin Kwon
+  last_updated_on: 2021-06-04 06:02:29.000000000 Z
+- name: memory-profiler
+  description: A module for monitoring memory usage of a python program
+  package_url: https://pypi.org/project/memory-profiler
+  version: 0.60.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: Martin Grund
+  last_updated_on: 2022-12-29 00:04:21.000000000 Z
+- name: mypy
+  description: Optional static typing for Python
+  package_url: https://pypi.org/project/mypy
+  version: '0.920'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20219/default_d4dd0466552a9776ca8535b869e22a3362790c94.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: Ruifeng Zheng
+  last_updated_on: 2022-10-20 09:41:16.000000000 Z
+- name: nbsphinx
+  description: Jupyter Notebook Tools for Sphinx
+  package_url: https://pypi.org/project/nbsphinx
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: Hyukjin Kwon
+  last_updated_on: 2021-06-04 06:02:29.000000000 Z
+- name: numpydoc
+  description: Sphinx extension to support docstrings in Numpy format
+  package_url: https://pypi.org/project/numpydoc
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20527/default_01d756fcaf12880a90d14748cc7c26fc0d526e2a.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: Hyukjin Kwon
+  last_updated_on: 2021-06-04 06:02:29.000000000 Z
+- name: openpyxl
+  description: A Python library to read/write Excel 2010 xlsx/xlsm files
+  package_url: https://pypi.org/project/openpyxl
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19895/default_4343f8bba4f6051641ffca8b4fbe9b099402c84d.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: Dongjoon Hyun
+  last_updated_on: 2022-10-28 11:05:38.000000000 Z
+- name: pandas
+  description: Powerful data structures for data analysis
+  package_url: https://pypi.org/project/pandas
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19837/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: Hyukjin Kwon
+  last_updated_on: 2022-03-29 02:07:22.000000000 Z
+- name: plotly
+  description: An open-source, interactive graphing library for Python
+  package_url: https://pypi.org/project/plotly
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20062/default_7d86b2789b7e98a881e37db483c09c6a1aa3e995.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: Hyukjin Kwon
+  last_updated_on: 2021-06-04 06:02:29.000000000 Z
+- name: py
+  description: Library with cross-python path
+  package_url: https://pypi.org/project/py
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19962/default_61e35171bd9c0e5c5b88b2e4221ca242576ad8c0.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: HyukjinKwon
+  last_updated_on: 2020-07-27 08:49:21.000000000 Z
+- name: py4j
+  description: Enables Python programs to dynamically access arbitrary Java objects
+  package_url: https://pypi.org/project/py4j
+  version: 0.10.9
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20324/default_c1c06f6abfee032e372dd181bec9df4eac0c9525.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/python/setup.py
+  detection_source: dev/requirements.txt
+  last_updated_by: Hyukjin Kwon
+  last_updated_on: 2021-06-04 06:02:29.000000000 Z
+- name: pyarrow
+  description: Python library for Apache Arrow
+  package_url: https://pypi.org/project/pyarrow
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20366/default_20f72d65682b6cad9939bcf162d0ef14fced900c.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: Hyukjin Kwon
+  last_updated_on: 2021-06-04 06:02:29.000000000 Z
+- name: sklearn
+  description: A set of python modules for machine learning and data mining
+  package_url: https://pypi.org/project/sklearn
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: itholic
+  last_updated_on: 2021-07-30 07:04:48.000000000 Z
+- name: unittest-xml-reporting
+  description: Unittest-based test runner with Ant/JUnit like XML reporting
+  package_url: https://pypi.org/project/unittest-xml-reporting
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/requirements.txt
+  detection_source: dev/requirements.txt
+  last_updated_by: Yikun Jiang
+  last_updated_on: 2022-08-10 00:17:38.000000000 Z
+- name: arrow
+  description: Integration to 'Apache' 'Arrow'
+  package_url: https://cran.r-project.org/arrow
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/R/pkg/DESCRIPTION
+  detection_source: R/pkg/DESCRIPTION
+  last_updated_by: HyukjinKwon
+  last_updated_on: 2020-07-27 05:21:15.000000000 Z
+- name: e1071
+  description: Misc Functions of the Department of Statistics
+  package_url: https://cran.r-project.org/e1071
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/R/pkg/DESCRIPTION
+  detection_source: R/pkg/DESCRIPTION
+  last_updated_by: Yanbo Liang
+  last_updated_on: 2016-03-25 05:29:34.000000000 Z
+- name: knitr
+  description: A General-Purpose Package for Dynamic Report Generation in R
+  package_url: https://cran.r-project.org/knitr
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/R/pkg/DESCRIPTION
+  detection_source: R/pkg/DESCRIPTION
+  last_updated_by: Felix Cheung
+  last_updated_on: 2016-12-08 19:29:31.000000000 Z
+- name: markdown
+  description: Render Markdown with 'commonmark'
+  package_url: https://cran.r-project.org/markdown
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/R/pkg/DESCRIPTION
+  detection_source: R/pkg/DESCRIPTION
+  last_updated_by: Yuanjian Li
+  last_updated_on: 2021-04-21 11:43:47.000000000 Z
+- name: rmarkdown
+  description: Dynamic Documents for R
+  package_url: https://cran.r-project.org/rmarkdown
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/R/pkg/DESCRIPTION
+  detection_source: R/pkg/DESCRIPTION
+  last_updated_by: Yuanjian Li
+  last_updated_on: 2021-04-21 11:43:47.000000000 Z
+- name: survival
+  description: Survival Analysis
+  package_url: https://cran.r-project.org/survival
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/R/pkg/DESCRIPTION
+  detection_source: R/pkg/DESCRIPTION
+  last_updated_by: HyukjinKwon
+  last_updated_on: 2019-10-03 23:56:45.000000000 Z
+- name: testthat
+  description: Unit Testing for R
+  package_url: https://cran.r-project.org/testthat
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/R/pkg/DESCRIPTION
+  detection_source: R/pkg/DESCRIPTION
+  last_updated_by: Xusen Yin
+  last_updated_on: 2016-03-22 21:16:51.000000000 Z
+- name: ffi
+  description: Ruby FFI library
+  package_url: https://rubygems.org/ffi
+  version: 1.15.5
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18899/default_4bb00167954f5d9dd5673b34db3ced31ee000cb4.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/docs/Gemfile.lock
+  detection_source: docs/Gemfile
+  last_updated_by: "“attilapiros”"
+  last_updated_on: 2021-02-18 03:17:57.000000000 Z
+- name: jekyll-redirect-from
+  description: Seamlessly specify multiple redirection URLs for your pages and posts
+  package_url: https://rubygems.org/jekyll-redirect-from
+  version: 0.16.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/docs/Gemfile.lock
+  detection_source: docs/Gemfile
+  last_updated_by: Kousuke Saruta
+  last_updated_on: 2021-11-11 23:08:20.000000000 Z
+- name: rouge
+  description: Rouge aims to a be a simple
+  package_url: https://rubygems.org/rouge
+  version: 3.26.0
+  license: MIT,BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19110/default_06b56c3cf87200ea8cc83429c79e5c5533c80ede.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/docs/Gemfile.lock
+  detection_source: docs/Gemfile
+  last_updated_by: "“attilapiros”"
+  last_updated_on: 2021-02-18 03:17:57.000000000 Z
+- name: webrick
+  description: WEBrick is an HTTP server toolkit that can be configured as an HTTPS
+    server
+  package_url: https://rubygems.org/webrick
+  version: 1.7.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19444/default_e747a715ce0379afdb68c78657d70e4a512bf5f4.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/docs/Gemfile.lock
+  detection_source: docs/Gemfile
+  last_updated_by: "“attilapiros”"
+  last_updated_on: 2021-02-18 03:17:57.000000000 Z
+- name: ansi-regex
+  description: Regular expression for matching ANSI escape codes
+  package_url: https://www.npmjs.com/ansi-regex
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17917/default_72dbba22ca96f25f78f55f8ea5393222efca5494.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/package-lock.json
+  detection_source: dev/package.json
+  last_updated_by: Bjørn
+  last_updated_on: 2022-12-21 04:49:45.000000000 Z
+- name: minimatch
+  description: A glob matcher in javascript
+  package_url: https://www.npmjs.com/minimatch
+  version: 3.1.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16195/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/huhuhuHR/spark/blob/master/dev/package-lock.json
+  detection_source: dev/package.json
+  last_updated_by: Bjørn
+  last_updated_on: 2022-12-21 04:49:45.000000000 Z
